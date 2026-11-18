@@ -1,0 +1,11 @@
+no serial interrupt in arduino for xbee
+
+>system gropunding
+transformer isolates circuit from supply so save all circuitary in case of glitches.
+we 
+
+xbee needs 3.3v, and 600mA current so by voltage divider and arduino problem is with current,so need an extra supply of 3.3
+
+stable supply which can bear high currents, so use power circuitary
+
+ACS>arduino current sensor>0.03A error

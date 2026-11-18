@@ -1,0 +1,20 @@
+IEEE 802.15.4 (LR-WPAN)
+A "low-rate" version of the original WPAN protocol was used as the basis of ZigBee. Despite originally being conceived
+ as a standard for low power machine-to-machine communication in industrial environments, the technology has been found
+ to be well suited for integration into embedded "Smart Home" offerings that are expected to run on battery for extended
+ periods of time. ZigBee utilizes mesh networking to overcome the distance limitations associated with traditional WPAN in
+ order to establish a single network of addressable devices spread across the entire building. Z-Wave is a newer standard
+ also built on 802.15.4, that was developed specifically with the needs of home automation device makers in mind.
+
+IEEE 802.11 (WLAN)[edit]
+One of the most common ways of creating a home network is by using wireless radio signal technology; the 802.11 network 
+as certified by the IEEE. Most wireless-capable residential devices operate at a frequency of 2.4 GHz under 802.11b and 
+802.11g or 5 GHz under 802.11a. Some home networking devices operate in both radio-band signals and fall within the 802.11n
+ or 802.11ac standards. Wi-Fi is a marketing and compliance certification for IEEE 802.11 technologies.[2] The Wi-Fi 
+Alliance has tested compliant products certifies them for interoperability.
+
+IEEE 802.15 (WPAN)[edit]
+Low power, close range communication based on IEEE 802.15 standards has a strong presence in homes. Bluetooth continues to
+ be the technology of choice for most wireless accessories such as keyboards, mice, headsets, and game controllers. 
+These connections are often established in a transient, ad-hoc manner and is not often seen as an act of expanding a home
+ network.

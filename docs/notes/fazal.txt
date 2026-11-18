@@ -1,0 +1,11 @@
+accuracy>0.5
+alarms
+after 15min
+3days readings save
+isqra MT 880 meter CT
+
+metering ic
+........
+jugarbazi
+not accuracy in voltage waveform> due to pic issues
+spikes in current waveform> filters not implemented
